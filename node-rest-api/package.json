@@ -1,0 +1,24 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "node rest api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angga-LWA/API.git"
+  },
+  "author": "API JS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angga-LWA/API/issues"
+  },
+  "homepage": "https://github.com/Angga-LWA/API#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
